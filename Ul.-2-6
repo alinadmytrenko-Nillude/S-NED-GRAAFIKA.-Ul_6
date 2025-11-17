@@ -1,0 +1,7 @@
+a = 10
+b = 2
+print(a != b and b > 10) #!= — ei ole võrdne
+print(b == a or a >= 0) #== — võrdne 
+
+# a != b → 10 != 2 → True    b > 10 → 2 > 10 → False
+# b == a → 2 == 10 → False   a >= 0 → 10 >= 0 → True

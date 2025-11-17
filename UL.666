@@ -1,0 +1,7 @@
+a = "Tere"
+b = "Jore"
+lause = a * 3 + "\\" + b
+#a * 3 → rida kordub 3 korda → „TereTereTere“ "\\“ → üks märk \
+#(kaks kaldkriipsu on vaja, et näidata, et tegemist on lihtsalt \)
+# + b → lisame rea „Jore“
+print(lause)

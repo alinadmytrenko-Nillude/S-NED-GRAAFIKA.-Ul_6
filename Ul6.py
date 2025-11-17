@@ -1,0 +1,9 @@
+nimi1 = "Paide"
+nimi2 = "Türi"
+print("Tere,"[0],nimi1[-6],nimi2,"!")
+
+#P  a  i  d  e
+#0  1  2  3  4
+#-5 -4 -3 -2 -1
+
+#nimi1[-6] → Viga IndexError, sest sellist indeksit ei ole.
